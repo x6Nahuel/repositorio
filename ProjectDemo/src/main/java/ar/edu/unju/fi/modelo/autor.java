@@ -1,5 +1,5 @@
 package ar.edu.unju.fi.modelo;
 
-public class libros {
+public class autor {
 //coment
 }
